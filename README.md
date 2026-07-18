@@ -1,4 +1,4 @@
-![](Images/Title.jpeg)
+![](Images/Title.png)
 
 This project is a simple webpage about six flowers and their symbolic meanings in the language of flowers. It was created as part of the Web and Applications Development track to practise the basics of HTML and CSS.
 
@@ -15,7 +15,7 @@ The webpage presents the flowers in a two-column layout. Each flower section inc
 
 ## Website Preview
 
-![](Images/WebPage.jpeg)
+![](Images/WebPage.png)
 
 ## Technologies Used
 
